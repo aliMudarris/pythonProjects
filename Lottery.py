@@ -10,7 +10,7 @@ while True:
     x = [random.randint(NumOne,NumTwo) for i in range(5)] 
     y = [random.randint(NumOne,NumTwo) for i in range(1)]
     
-    print("Yoyr Lottery Numbers are: ", x, "PBall number is: ", y)
+    print("Your Lottery Numbers are: ", x, "PBall number is: ", y)
 
     #Ask the user if want to try another set of numbers
 
