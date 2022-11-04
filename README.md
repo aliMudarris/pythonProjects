@@ -1,3 +1,3 @@
 # pythonProjects
-"""Here you can fine all my basic project
+"""Here you can fined all my basic project
 while I am learning Python"""
